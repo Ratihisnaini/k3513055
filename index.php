@@ -1,5 +1,6 @@
 <?php
-
+//ini adalah baris komen pertamaku
+//ini adalah baris komen kedua
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
