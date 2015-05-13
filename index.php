@@ -1,6 +1,6 @@
 <?php
 //ini adalah baris komen pertamaku
-//menambahkan komentar oleh K3513047
+//menghapus komentar oleh K3513047
 
 /*
  *---------------------------------------------------------------
